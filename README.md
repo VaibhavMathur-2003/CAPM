@@ -18,6 +18,8 @@ Here's what each component represents:
 
 The CAPM provides a framework for understanding the risk-return relationship and is widely used in portfolio management, asset pricing, and cost of capital calculations.
 
+![alt text](Results.png)
+
 ## Usage
 
 1. Install the required Python libraries: `pandas`, `numpy`, `statsmodels`, `matplotlib`, `sklearn`, and `yfinance`.
